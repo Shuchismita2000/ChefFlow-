@@ -1,0 +1,15 @@
+{
+  "name": "chefflow-ai-cooking-planner",
+  "version": "1.0.0",
+  "description": "ChefFlow - AI Cooking Macro & Todo Planner",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
+}
